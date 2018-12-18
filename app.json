@@ -1,0 +1,9 @@
+{
+  "name": "socialz-www",
+  "description": "Socialz Website Microservice",
+  "buildpacks": [
+    {
+      "url": "https://github.com/heroku/heroku-buildpack-nodejs"
+    }
+  ]
+}
